@@ -14,6 +14,6 @@ por numero de documento.
 campo de correo electronico coincida con direcciones de
 "email.com"
 
-copn tal fin se crearon 2 archivos de consulta llamados :
- ** Query_ObtenerDocumento.sql
- ** Query_ObtenerCorreo.sql
+con tal fin se crearon 2 archivos de consulta llamados :
+ * Query_ObtenerDocumento.sql
+ * Query_ObtenerCorreo.sql
